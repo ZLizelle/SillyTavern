@@ -1,0 +1,7 @@
+listen: true
+port: 8000
+whitelistMode: false
+basicAuthMode: true
+basicAuthUser:
+  username: "zhizhi"
+  password: "wangyizhi041208"
